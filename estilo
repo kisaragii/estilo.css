@@ -1,0 +1,9 @@
+.body{
+  padding:0;
+}
+
+.menu {
+  width:100%;
+  heigth:30%;
+  padding:0;
+}
